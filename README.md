@@ -1,6 +1,6 @@
 # Opportunity Card React Take-Home Assignment
 
-_Author: Hendrik Kits van Heyningen_
+_Author: ************_
 
 ******** Front-End Engineers often build UIs that allow our customers to explore ******** Data Scientists' datasets that layer Predictive Analytics / AI on top of customer sales opportunities.
 
